@@ -1,0 +1,7 @@
+Pageobjects\SearchCustomerPage.class
+stepdefinations\BaseClass.class
+testrunner\TestRun.class
+Pageobjects\Loginpage.class
+utilities\waithelper.class
+Pageobjects\AddCustomerPageObject.class
+stepdefinations\steps.class
